@@ -1,9 +1,6 @@
 export const heroData = {
-  // Photo options:
-  // Option 1: Place your photo in public/images/photo.jpg and use: '/images/photo.jpg'
-  // Option 2: Use a full URL: 'https://example.com/your-photo.jpg'
-  // Option 3: Import from src/assets: import photo from '../assets/photo.jpg' then use: photo
-  photo: '/images/pdp.png', // expects the image at public/images/pdp.png
+
+  photo: '/images/pdp.png', 
   greeting: 'Hello, I\'m',
   name: 'Ayoub Ahmed',
   title: 'Mid-level Software Developer',
